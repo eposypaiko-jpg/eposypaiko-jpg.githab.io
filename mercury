@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Навчальний сайт з природознавства </title>
+        <meta charset="utf-8">
+    </head>
+    <body bgcolor="black" text="white">
+<table bgcolor="black" border="0" width="100%">
+<tr><td width="15%"><IMG src="IMG/golovna.jpg"></td> <td><center> <font  color="yellow" > <P> <big> <b> Знайомство із Сонячною системою </b> </font> </big> </p> </center>
+</td></tr>
+<tr><td>
+	<p align="center"><IMG src="IMG/Sun.png" width="50%"></p>
+	<p align="center"><a href="soln.html">Сонце</a></p>
+	<p align="center"><IMG src="IMG/Mars.png" width="50%"></p>
+	<p align="center"><a href="mars.html">Марс</a></p>
+	<p align="center"><IMG src="IMG/Venera.png" width="50%"></p>
+	<p align="center"><a href="venera.html">Венера</a></p>
+	<p align="center"><IMG src="IMG/Neptune.png" width="50%"></p>
+	<p align="center"><a href="neptyn.html">Нептун</a></p>
+	<p align="center"><IMG src="IMG/Uran.png" width="50%"></p>
+	<p align="center"><a href="uran.html">Уран</a></p>
+	<p align="center"><IMG src="IMG/Jupiter.png" width="50%"></p>
+	<p align="center"><a href="jupiter.html">Юпітер</a></p>
+	<p align="center"><IMG src="IMG/Zemlya.png" width="50%"></p>
+	<p align="center"><a href="zeml.html">Земля</a></p>
+	<p align="center"><IMG src="IMG/Mercury.png" width="50%"></p>
+	<p align="center"><a href="mercury.html">Меркурій</a></p>
+	<p align="center"><IMG src="IMG/Pluton.png" width="50%"></p>
+	<p align="center"><a href="plyton.html">Плутон</a></p>
+	<p align="center"><IMG src="IMG/Saturn.png" width="50%"></p>
+	<p align="center"><a href="saturn.html">Сатурн</a></p>
+	<p align="center"><IMG src="IMG/golovna.jpg" width="50%"></p>
+	<p align="center"><a href="index.html">На головну</a></p>
+	 <td valign="top">Mercury
+</td></tr>
+</table>
+        </body>
+</html>
